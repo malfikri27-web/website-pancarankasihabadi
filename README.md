@@ -1,6 +1,6 @@
 # 🌐 Website Portofolio – CV. Pancaran Kasih Abadi
 
-![Tampilan Website](/screenshot-homepage.png)
+![Tampilan Website](https://www.pancarankasihabadi.com/screenshot-homepage.png)
 
 Selamat datang di portofolio pertama saya!  
 Proyek ini merupakan website resmi **CV. Pancaran Kasih Abadi**, sebuah lembaga pelatihan & penyaluran tenaga kerja profesional di seluruh wilayah Indonesia.
